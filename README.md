@@ -33,17 +33,17 @@
 <div align="center">
 
 #### 🔮 Frontend
-![React](https://img.shields.io/badge/React-0%25-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-25%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-75%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-10%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-5%25-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-60%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-75%25-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-20%25-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-20%25-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 #### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-20%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-60%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
